@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+#_3{
+	 background-color: rgb(255,0,0);
+}
 .grid-container{
 	display:grid;
 	grid-template-columns:repeat(3,1fr);
@@ -9,7 +12,4 @@
 .grid-item{
 	margin:5px;
 	height:100px;
-}
-#3{
-	background-color:rgb(255,0,0);
 }

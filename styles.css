@@ -12,10 +12,10 @@
         font-size: 24px;
       }
 
-.grid-item#_3{
-  background-color: rgb(255,0,0); /* Green color */
-}
 
 .grid-item.reset {
   background-color: transparent;
+}
+.grid-item:active{
+	background-color:red;
 }
